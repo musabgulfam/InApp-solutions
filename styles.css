@@ -1,0 +1,45 @@
+* { 
+    margin:0;
+    padding:0;
+}
+
+#nav{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /*border-style: dotted;*/
+}
+
+#header{
+    border-style: hidden;
+    /*padding: 0;*/
+    border-collapse: collapse;
+    margin-bottom: 0px;
+}
+
+#menu_img{
+    margin-left: 90%;
+}
+
+#more_img_div{
+    width: 65px;
+    height: 500%;
+    /*border-style: dotted;*/
+    float: left;
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+
+#more_img{
+    margin-top: 385px;
+}
+
+#mid{
+    width: 90%;
+    height: 100%;
+    border-style: dotted;
+    float: left;
+    border-collapse: collapse;
+    margin-top: 50px;
+}
