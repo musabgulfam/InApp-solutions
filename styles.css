@@ -93,6 +93,7 @@ h1{
     height: 100%;
     /*border-style: dotted;*/
     /*margin-left: 180px;*/
+    grid-template-columns: repeat(auto-fit, 23%);
 }
 
 #h4C{
@@ -140,6 +141,7 @@ h1{
     float: left;
     z-index: 0; /*div with higher z-index will be displayed above*/ 
     position: static;
+    grid-template-columns: repeat(auto-fit, 23%);
 }
 #temp{
     margin-right: 90px;
