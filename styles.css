@@ -200,3 +200,104 @@ h1{
     z-index: -1;
     margin-left: 200px;
 }
+
+#lower{
+    background-color: #007acc;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    z-index: -1;
+    /*margin-left: 1020px;*/
+    margin-left: 1100px;
+    margin-top: 545px;
+    /*top: 3000px;*/
+}
+
+#end{
+    margin-top: 250px;
+    width: 99%;
+    height: 390px;
+    /*margin-bottom: 100px;*/
+}
+
+#vertical_bar{
+    float: left; 
+    width: 60px; 
+    height: 300px; 
+    background-color: #00134d;
+}
+
+.fa{
+    /*padding: 0px;*/
+    text-decoration: none;
+    width: 50px;
+    color: white;
+    /*text-align: center;
+    text-decoration: none;*/
+    /*margin: 5px 2px;*/
+}
+
+.fa-instagram {
+    color: white;
+}
+
+#footer_bar{
+    background-color: #00134d;
+    width: 100%;
+    height: 95px;
+    margin-top: 280px;
+    /*border-style: dotted;*/
+}
+
+#cookies{
+    float: left;
+    width: 150px; height: 50px; 
+    display: block; 
+    margin-left: 600px; 
+    /*border-style: dotted; */
+    margin-top: 20px; 
+}
+
+#privacy{
+    float: right;
+    width: 150px; height: 50px; 
+    display: block; 
+    margin-left: 600px; 
+    border-style: dotted; 
+    margin-top: 100px; 
+}
+
+#about{
+    float: left;
+    width: 200px; 
+    height: 50px; 
+    margin-top: 25px; 
+    /*border-style: dotted; */
+    margin-left: 0px; 
+    line-height: 1.6; 
+    display: block;
+}
+
+#logo{
+    margin-left: 80px;
+    float: left;
+    width: 200px;
+    height: 200px; 
+    margin-top: 30px;
+}
+
+#location{
+    margin-left: 100px;
+    float: left;
+    width: 190px;
+    height: 200px; 
+    margin-top: 50px;
+}
+
+#text{
+    margin-left: 300px;
+    width: 630px;
+    height: 250px; 
+    float: right;
+    margin-top: -210px;
+}
